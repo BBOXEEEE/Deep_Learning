@@ -3,7 +3,7 @@
 
 ## 📌 과제 링크
 <details>
-<summary style="font-weight: bold">HW 1</summary>
+<summary style="font-weight: bold">🧢 HW 1</summary>
 
 - [hw1_1.ipynb](https://nbviewer.org/github/BBOXEEEE/Deep_Learning/blob/main/_00_homework/hw1_1.ipynb)
 
