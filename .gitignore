@@ -160,6 +160,9 @@ cython_debug/
 .idea/
 temp/
 .DS_Store
+LICENSE
+python_path.py
+.gitignore
 
 _00_data/*
 _00_data/data.zip
