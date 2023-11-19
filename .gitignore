@@ -171,6 +171,7 @@ _00_homework/hw2/test.csv
 _00_homework/hw2/train.csv
 _00_homework/hw2/submission.csv
 _00_homework/hw2/wandb
+_00_homework/hw3/checkpoints
 
 *.tar
 data.zip
