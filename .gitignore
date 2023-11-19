@@ -163,7 +163,11 @@ temp/
 
 _00_data/*
 _00_data/data.zip
-_01_code/_10_object_detection/YOLO/yolo_v1.tar
+_00_homework/hw2/gender_submission.csv
+_00_homework/hw2/test.csv
+_00_homework/hw2/train.csv
+_00_homework/hw2/submission.csv
+_00_homework/hw2/wandb
 
 *.tar
 data.zip
